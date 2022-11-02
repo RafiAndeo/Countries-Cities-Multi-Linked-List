@@ -1,6 +1,4 @@
-# Country-Cities-Multi-Linked-List
+# Countries_Cities_Multi_Linked_List
 Data Structure Project programmed with C++
 
-Project created by:
-1. Muhammad Rafi Andeo Praja (Telkom University)
-2. Ricardo Hamonangan (Telkom University)
+Multi Linked List Project
